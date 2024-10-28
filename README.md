@@ -25,6 +25,6 @@ Are you working on an interesting project? Have you had a major technical breakt
 - 2:30 - 2:35 pm: **WebAssembly is Cool! (finally!)** - [Jakob Heuser - linkedin.com/in/jakobheuser](https://www.linkedin.com/in/jakobheuser)
 - 2:35 - 2:40 pm: Add your topic + link to your LinkedIn profile here
 - **Wednesday, November 20**
-- 11:30 - 11:35 am: **How we discovered the limits of the cloud while deploying A.I. in Switzerland** - [link to your LinkedIn profile here](https://www.linkedin.com/in/marco-van-de-haar-0137b628)
+- 11:30 - 11:35 am: **How we discovered the limits of the cloud while deploying A.I. in Switzerland** - [Marco van de Haar](https://www.linkedin.com/in/marco-van-de-haar-0137b628)
 - 11:35 - 11:40 am: Add your topic + link to your LinkedIn profile here
 
