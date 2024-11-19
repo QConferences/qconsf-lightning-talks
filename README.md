@@ -28,3 +28,5 @@ Are you working on an interesting project? Have you had a major technical breakt
 **Wednesday, November 20**
 - 11:30 - 11:35 am: **How we discovered the limits of the cloud while deploying A.I. in Switzerland** - [Marco van de Haar](https://www.linkedin.com/in/marco-van-de-haar-0137b628)
 - 11:35 - 11:40 am: **Using Dev Containers: Dev Environment as Code** - [Jaspreet Sethi](https://www.linkedin.com/in/jaspreetssethi/)
+- 2:30 - 2:35 pm: this slot is free - propose your topic
+- 2:35 - 2:40 pm: this slot is free - propose your topic
